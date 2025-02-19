@@ -21,3 +21,6 @@ C
 # Problemas enfrentados
 sistema para cadastrar codigos de produtos ja registrados e exibir quais estao no cadastrado
 
+# GTK
+adicionado uma pequena tela usando o gtk 
+
